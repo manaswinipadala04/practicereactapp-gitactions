@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/manaswinipadala04/reactapp105-gitactions",
+  "homepage": "https://github.com/manaswinipadala04/practicereactapp-gitactions",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
